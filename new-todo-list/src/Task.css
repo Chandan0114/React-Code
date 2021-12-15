@@ -1,0 +1,38 @@
+.taskContainer{
+    height: 43px;
+    border: 1px solid black;
+    background-color: #ff6a006b;
+    margin: 15px;
+    padding: 5px;
+
+}
+
+.task{
+    float: left;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 70%;
+    
+
+
+}
+
+.taskAction{
+    float: right;
+    background: springgreen;
+    cursor:pointer;
+    /* height: 10px; */
+
+
+}
+.taskAction1{
+    margin: 10px;
+    padding: 5px;
+    background: cyan;
+}
+
+.taskTab{
+    height: 25px;
+    margin-left: 10px;
+}

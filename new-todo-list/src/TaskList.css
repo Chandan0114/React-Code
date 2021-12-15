@@ -1,0 +1,21 @@
+.taskListContainer{
+    margin-top: 10px;
+    border:1px solid;
+    /* background:#87ceeb1f ; */
+    background-color: #8a2be238;
+    width: 40%;
+    height: 175px;
+    overflow-y: auto;
+    
+}
+
+.taskListHeading{
+    font-family: sans-serif;
+    font-size: 18px;
+    margin: 5px;
+
+}
+.emptyList{
+    text-align: center;
+    font-family: sans-serif;
+}

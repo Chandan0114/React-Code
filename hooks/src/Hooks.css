@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.input{
+    
+    margin-left: 200px;
+    margin-top: 50px;
+    padding: 10px;
+    border: 2px solid red;
+}
+
+.button{
+    margin-left: 200px;
+    margin-top: 20px;
+    padding: 6px;
+    width: 100px;
+
+}
+.title{
+    margin-left: 200px;
+    margin-top: 10px;
+}
+h2{
+    margin-left: 200px;
+    
+}
+.error{
+    margin-left: 200px;
+    margin-top: 10px;
+
+}
+

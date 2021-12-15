@@ -1,0 +1,19 @@
+.count{
+    text-align: center;
+
+}
+.incButton{
+    margin: 5px;
+    padding: 5px;
+
+}
+
+.decButton{
+    margin: 5px;
+    padding: 5px;
+
+
+}
+div{
+    font-size: 30px;
+}

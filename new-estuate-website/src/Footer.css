@@ -1,0 +1,34 @@
+.maindiv{
+    background-color: #272727;
+    padding: 24px;
+    width: 100%;
+    
+}
+p{
+    margin-left: 30px;
+    color: #fff;
+    font-size: 20px;
+    font-family: Roboto,sans-serif!important;
+}
+
+li{
+    /* margin: 5px; */
+    padding:5px;
+    color: #fff;
+    font-family: Roboto,sans-serif!important;
+    line-height: 2.1!important;
+    font-size: 14px;
+}
+ul {
+    list-style: none;
+  }
+  
+ul li::before {
+    content: "\2022";
+    color: red;
+    font-weight: bold;
+    display: inline-block; 
+    width: 1em;
+    margin-left: -1em;
+    
+  }
